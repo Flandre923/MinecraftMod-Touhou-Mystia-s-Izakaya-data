@@ -1,0 +1,14 @@
+[
+  {
+    "name": "司康饼",
+    "source":"本体",
+    "kitchenware": "蒸锅",
+    "price": 	8,
+    "food_ingredients": ["黄油","面粉"],
+    "positive_characteristics": ["实惠","饱腹","西式"],
+    "negative_characteristics": [],
+    "cooking_time":	[7,50],
+    "level": 1,
+    "cooking_method": "料理制作失败"
+  }
+]
