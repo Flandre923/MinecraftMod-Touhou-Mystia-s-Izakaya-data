@@ -142,7 +142,5 @@ def test_get_dish_data():
     with open('DishBook.json', 'w', encoding='utf-8') as f:
         f.write(json_data)
 
-
-def get_cookbook():
-    data = Data.getData();
-    soup = BeautifulSoup(data, 'html.parser')
+def testdata():
+    print("hello world")
